@@ -9,7 +9,7 @@ Bye !
 
 
 --------------
------INFO-----
+INFO
 --------------
 
 Imokia was a project of minecraft server.
@@ -19,7 +19,7 @@ Imokia was a project of minecraft server.
 'Imokia' was a plugin with a 'ping' commands.
 
 'Imokia2' was the plugin of imokia with DataBase.
-I used an extension here:
+I used an extension here: Obsolete
 
 please visit his github to support it. Thx !
 
