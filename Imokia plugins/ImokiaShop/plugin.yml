@@ -1,0 +1,13 @@
+name: ImokiaShop
+author: xhuriken
+version: 1.3
+main: fr.xhuriken.imokiashop.Main
+commands:
+  shop:
+    name: "shop"
+  eco:
+    name: "eco"
+  money:
+    name: "money"
+  pay:
+    name: "pay"

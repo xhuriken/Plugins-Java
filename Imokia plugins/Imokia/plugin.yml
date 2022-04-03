@@ -1,0 +1,7 @@
+name: Imokia
+author: xhuriken
+version: 1.0
+main: fr.xhuriken.imokia.Main
+commands:
+  ping:
+    permission: imokia.pong

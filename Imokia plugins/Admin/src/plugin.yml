@@ -1,0 +1,15 @@
+name: Admin
+author: xhuriken
+main: fr.xhuriken.admin.Main
+version: 1.0
+commands:
+  freeze:
+    permission: freeze.use
+  unfreeze:
+    permission: freeze.use
+  vote:
+  msg:
+  r:
+  tpa:
+  tpaccept:
+  tpyes:
