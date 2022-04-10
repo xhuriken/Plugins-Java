@@ -19,7 +19,8 @@ Imokia was a project of minecraft server.
 'Imokia' was a plugin with a 'ping' commands.
 
 'Imokia2' was the plugin of imokia with DataBase.
-I used an extension here: Obsolete
+I used an extension of 360 matt but this extension is obsolete.
+You can alredy visit his github : https://github.com/360matt
 
 please visit his github to support it. Thx !
 
